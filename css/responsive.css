@@ -1,0 +1,263 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+    .header-section .top-header{
+        display: none;
+    }
+    .header-section .main-header .navbar form{
+        display: none!important;
+    }
+    .header-section .carousel-inner{
+        padding: 90% 0% 5% 0%;
+    }
+    .carousel-inner h5{
+        font-size: 80px;
+        line-height: 90px;
+        width: 100%;
+    }
+    .header-section .carousel-item{
+        margin-left: -100px;
+    }
+    .header-section .carousel-inner h1{
+        font-size: 20px;
+    }
+    .col-md-6{
+        width: 100%;
+    }
+    .col-md-4{
+        width: 50%;
+    }
+    .queto-section .img-col{
+        width: 40%!important;
+    }
+    .queto-section .col-md-6{
+        width: 60%;
+    }
+    .queto-section img{
+        width: 100%;
+    }
+    .col-md-8{
+        width: 100%;
+    }
+    .col-md-3{
+        width: 50%;
+    }
+    .about-section .about-right-down-content .col-md-5{
+        width: 30%;
+    }
+    .services-section .services-cards .card{
+        padding: 60px 15px;
+    }
+    .services-section .services-cards .card-2{
+        margin-top: 0px;
+    }
+    .services-section .services-cards .card-3{
+        margin-top: 25px;
+    }
+    .queto-section .queto-right-content {
+        margin-top: 35px;
+    }
+    .queto-section .queto-right-content .btn-style-4 {
+        margin-right: -12px;
+        margin-top: -40px;
+        margin-bottom: 3px;
+    }
+    .queto-section img {
+        margin-top: -17px;
+    }
+    .choose-section .choose-right-col{
+        display: none;
+    }
+    .choose-section .choose-bottom-middle-col{
+        display: none;
+    }
+    .intro-section .intro-left-col {
+        padding: 239px 0px;
+    }
+    .intro-section .video-button {
+        margin-top: -81%;
+    }
+    .profile-slide-section .owl-item{
+        width: 250px!important;
+    }
+    .profile-slide-section .owl-carousel .owl-stage{
+        overflow: hidden;
+        height: 400px;
+    }
+    .skilltest-section .skilltest-left-content {
+        padding: 0% 0% 12% 0%;
+    }
+    .portfolio-section .portfolio-col-4{
+        width: 100%;
+        margin-top: 25px;
+    }
+    .portfolio-section .portfolio-col-4-last{
+        width: 100%;
+        margin-top: 0px;
+    }
+    .portfolio-section .portfolio-col-4-last .portfolio-item img{
+        width: 95%;
+    }
+    .portfolio-section .portfolio-col-4-last .portfolio-item{
+        display: inline-block;
+        width: 49%;
+    }
+    .col-md-2{
+        width: 30%;
+    }
+    .col-md-10{
+        width: 70%;
+    }
+    .testimonial-section .card .item-heading {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .testimonial-section .card .star {
+        width: 25%;
+    }
+    .news-feed-section .news-feed-blog h2 {
+        width: 42%;
+        margin-left: 58%;
+        margin-top: -11.5%;
+    }
+    .news-feed-section .news-feed-blog .card-body h5 {
+        margin: 0% 5%;
+    }
+    .footer-section .card .col-md-3{
+       width: 30%;
+    }
+    .footer-section .card .col-md-9{
+        width: 70%;
+    }
+  }
+
+  @media (min-width: 320px) and (max-width: 480px) {
+    .header-section .top-header{
+        display: none;
+    }
+    .header-section .main-header .navbar form{
+        display: none!important;
+    }
+    .header-section .carousel-inner{
+        padding: 10% 0% 35% 0%;
+    }
+    .carousel-inner h5{
+        font-size: 30px;
+        line-height: 40px;
+        width: 100%;
+        text-transform: uppercase;
+    }
+    .header-section .carousel-item{
+        height: 400px;
+        margin-left: 0px;
+    }
+    .d-none {
+        display: block!important;
+    }
+    .header-section .carousel-inner h1{
+        font-size: 16px;
+    }
+    .btn-pri{
+        width: 125px;
+        padding: 0 0 !important;
+    }
+    .section-heading{
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .about-section .about-right-content {
+        margin-top: 50px;
+    }
+    .about-right-down-content .first-text{
+        margin-top: 30px;
+    }
+    .item-heading {
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .services-section .services-cards .card-2 {
+        margin-top: 25px;
+    }
+    .services-section .services-cards .card-3 {
+        margin-top: 25px;
+    }
+    .queto-section .img-col{
+        display: none;
+    }
+    .queto-section .queto-right-content .btn-style-4 {
+        margin-bottom: 4px;
+        margin-right: -12px;
+    }
+    .queto-section .queto-right-content {
+        margin-left: 20px;
+    }
+    .choose-section .choose-right-col{
+        display: none;
+    }
+    .choose-section .choose-bottom-middle-col{
+        display: none;
+    }
+    .intro-section .intro-right-col {
+        padding: 80px 50px;
+    }
+    .intro-section .video-button {
+        margin-top: -151%;
+    }
+    .intro-section .intro-left-col {
+        padding: 110px 0px;
+    }
+    .profile-slide-section .owl-item{
+        width: 340px!important;
+    }
+    .profile-slide-section .owl-carousel .owl-stage{
+        overflow: hidden;
+        height: 380px;
+    }
+    .skilltest-section .skilltest-left-content {
+        padding: 0% 0% 12% 0%;
+    }
+    .portfolio-section .second-col img{
+        margin-top: 25px;
+    }
+    .testimonial-section .card img {
+        width: 50%;
+    }
+    .testimonial-section .card .star {
+        width: 50%;
+    }
+    .testimonial-section .card .item-heading {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .news-feed-section .news-feed-blog h2 {
+        width: 38%;
+        margin-left: 62%;
+        margin-top: -11.3%;
+
+    }
+    .footer-section .footer-top{
+        text-align: center;
+    }
+    .footer-section .footer-top .footer-logo img {
+        width: 55%;
+    }
+    .footer-section .footer-top .social-media ul li a {
+        padding: 12px 15px;
+    }
+    .footer-section .footer-top .social-media ul {
+        float: none;
+    }
+    .footer-section .footer-bottom .card .col-md-3{
+        width: 30%;
+        padding-bottom: 15px;
+    }
+    .footer-section .footer-bottom .card .col-md-9{
+        width: 70%;
+    }
+    .footer-section .footer-copy .left-p {
+        text-align: center;
+    }
+    .footer-section .footer-copy .right-p {
+        text-align: center;
+    }
+  }
+  
